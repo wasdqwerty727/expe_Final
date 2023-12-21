@@ -25,3 +25,7 @@ https://www.canva.com/design/DAF3fXiVCzo/Jdr-WNWFCnji81t6kXLxww/edit?utm_content
 
 
 <img width="680" alt="Снимок экрана 2023-12-21 163649" src="https://github.com/wasdqwerty727/expe_Final/assets/131790102/69bbe83a-50c6-4b39-a998-2aa63e177998">
+
+<img width="434" alt="Снимок экрана 2023-12-21 163803" src="https://github.com/wasdqwerty727/expe_Final/assets/131790102/18627455-3ec2-4c00-b619-7f880bcaa0f3">
+
+<img width="959" alt="Снимок экрана 2023-12-21 163905" src="https://github.com/wasdqwerty727/expe_Final/assets/131790102/51732fc2-3a85-4436-918e-b9b910dc5f3e">
