@@ -22,3 +22,6 @@ Beksultan - Java
 
 # presentation
 https://www.canva.com/design/DAF3fXiVCzo/Jdr-WNWFCnji81t6kXLxww/edit?utm_content=DAF3fXiVCzo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+<img width="680" alt="Снимок экрана 2023-12-21 163649" src="https://github.com/wasdqwerty727/expe_Final/assets/131790102/69bbe83a-50c6-4b39-a998-2aa63e177998">
